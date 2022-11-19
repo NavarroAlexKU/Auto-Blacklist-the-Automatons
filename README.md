@@ -29,7 +29,8 @@ Secure the web application infrastructure by automating the blacklist of IP addr
 
     ![ScreenShot](https://github.com/NavarroAlexKU/Auto-Blacklist-the-Automatons/blob/main/Screenshot%202022-11-19%20at%201.25.47%20PM.png)
 
-* Next you will see the following steps listed to the left-hand side of your screen:
+* Next you will see the following configuration steps listed to the left-hand side of your screen:
+    Most of our configuration we will do later:
     - Describe web ACL and associate it to AWS resources
     - Add Rules and rule groups
     - Set rule priority
@@ -45,3 +46,7 @@ Secure the web application infrastructure by automating the blacklist of IP addr
     for now all we will do is make sure that we set "Default web ACL action for requests that don't match any rules" to "Allow"
 
     ![ScreenShot](https://github.com/NavarroAlexKU/Auto-Blacklist-the-Automatons/blob/main/Screenshot%202022-11-19%20at%201.48.00%20PM.png)
+
+* Again, most configuration steps we will do later so you can click through steps 3 through 5. Once you get to the "Review and create web ACL" in step 5, click "Create web ACL"
+
+    
