@@ -24,3 +24,7 @@ Secure the web application infrastructure by automating the blacklist of IP addr
     a.) go to the AWS Management Console and Search AWS WAF or go to "Security, Indentity, & Compliance" and you can find the service there.
 
     ![ScreenShot](https://github.com/NavarroAlexKU/Auto-Blacklist-the-Automatons/blob/main/Screenshot%202022-11-19%20at%2012.07.11%20PM.png)
+
+    You'll then be brought to AWS WAF homepage:
+
+    ![ScreenShot](https://github.com/NavarroAlexKU/Auto-Blacklist-the-Automatons/blob/main/Screenshot%202022-11-19%20at%201.25.47%20PM.png)
