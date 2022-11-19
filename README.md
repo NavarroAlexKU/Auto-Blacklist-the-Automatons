@@ -11,3 +11,10 @@ Secure the web application infrastructure by automating the blacklist of IP addr
 
 ## 🔗 Social Media Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexnavarro2/)
+
+## Project Walk-Through:
+
+1.) We will start by implementing the AWS WAF and create a web ACL
+
+### What is AWS WAF?
+* AWS WAF is a web application firewall that lets you montior the HTTP & HTTPS requests that are forwarded to an Amazon Cloudfront or application load balancer. This AWS service operates at the Application layer (layer 7) of the OSI model.
