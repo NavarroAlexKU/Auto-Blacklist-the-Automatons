@@ -20,3 +20,7 @@ Secure the web application infrastructure by automating the blacklist of IP addr
 
 ### What is AWS WAF?
 * AWS WAF is a web application firewall that lets you montior the HTTP & HTTPS requests that are forwarded to an Amazon Cloudfront or application load balancer. This AWS service operates at the Application layer (layer 7) of the OSI model.
+
+    a.) go to the AWS Management Console and Search AWS WAF or go to "Security, Indentity, & Compliance" and you can find the service there.
+
+    ![ScreenShot](https://github.com/NavarroAlexKU/Auto-Blacklist-the-Automatons/blob/main/Screenshot%202022-11-19%20at%2012.07.11%20PM.png)
