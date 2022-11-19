@@ -30,3 +30,9 @@ Secure the web application infrastructure by automating the blacklist of IP addr
     ![ScreenShot](https://github.com/NavarroAlexKU/Auto-Blacklist-the-Automatons/blob/main/Screenshot%202022-11-19%20at%201.25.47%20PM.png)
 
 * Naming and Configuring the Web ACL
+    - Nameing AWS WAF
+    - Description "Optional"
+    - CloudWatch Metric Name
+    for now we're just going to give it a name and click next.
+
+    ![ScreenShot](https://raw.githubusercontent.com/NavarroAlexKU/Auto-Blacklist-the-Automatons/88bce98b653a5f8542b52ace064c1b072d83768e/Screenshot%202022-11-19%20at%201.35.07%20PM.png)
