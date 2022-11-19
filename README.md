@@ -38,4 +38,9 @@ Secure the web application infrastructure by automating the blacklist of IP addr
 
     I'm going to name the web ACL "ACG_Resistant_ACL" then click proceed to step 2.
 
-    ![ScreenShot](https://github.com/NavarroAlexKU/Auto-Blacklist-the-Automatons/blob/main/Screenshot%202022-11-19%20at%201.43.44%20PM.png)
+        ![ScreenShot](https://github.com/NavarroAlexKU/Auto-Blacklist-the-Automatons/blob/main/Screenshot%202022-11-19%20at%201.43.44%20PM.png)
+
+    Now we're on the "Add rule and rule groups":
+        * for now all we will do is make sure that we set "Default web ACL action for requests that don't match any rules" to "Allow"
+
+        ![ScreenShot](https://github.com/NavarroAlexKU/Auto-Blacklist-the-Automatons/blob/main/Screenshot%202022-11-19%20at%201.48.00%20PM.png)
