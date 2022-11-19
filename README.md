@@ -49,4 +49,4 @@ Secure the web application infrastructure by automating the blacklist of IP addr
 
 * Again, most configuration steps we will do later so you can click through steps 3 through 5. Once you get to the "Review and create web ACL" in step 5, click "Create web ACL"
 
-    
+    ![ScreenShot](https://github.com/NavarroAlexKU/Auto-Blacklist-the-Automatons/blob/main/Screenshot%202022-11-19%20at%201.54.34%20PM.png)
