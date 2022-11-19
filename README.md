@@ -36,4 +36,6 @@ Secure the web application infrastructure by automating the blacklist of IP addr
     - Configure metrics
     - Review and create web ACl
 
-    ![ScreenShot](https://raw.githubusercontent.com/NavarroAlexKU/Auto-Blacklist-the-Automatons/88bce98b653a5f8542b52ace064c1b072d83768e/Screenshot%202022-11-19%20at%201.35.07%20PM.png)
+    I'm going to name the web ACL "ACG_Resistant_ACL" then click proceed to step 2.
+
+    ![ScreenShot](https://github.com/NavarroAlexKU/Auto-Blacklist-the-Automatons/blob/main/Screenshot%202022-11-19%20at%201.43.44%20PM.png)
