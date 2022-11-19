@@ -53,4 +53,4 @@ Secure the web application infrastructure by automating the blacklist of IP addr
 
     ![ScreenShot](https://github.com/NavarroAlexKU/Auto-Blacklist-the-Automatons/blob/main/Screenshot%202022-11-19%20at%201.54.44%20PM.png)
 
-    ![ScreenShot]()
+    ![ScreenShot](https://github.com/NavarroAlexKU/Auto-Blacklist-the-Automatons/blob/main/Screenshot%202022-11-19%20at%201.54.58%20PM.png)
