@@ -8,3 +8,6 @@ Secure the web application infrastructure by automating the blacklist of IP addr
 ## Author:
 [Alex Navarro]
 [https://github.com/NavarroAlexKU]
+
+## 🔗 Social Media Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexnavarro2/)
